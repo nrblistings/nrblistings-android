@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, NrbListings!</string>
+    <string name="app_name">LocationMatrix</string>
+    <string name="no_types">There are no types of data.</string>
+    <string name="no_events">There are no events.</string>
+    
+    <string name="listing_name">Name</string>
+    <string name="listing_description">Description</string>
+    <string name="listing_price">Price</string>
+    
+    <string name="confirm">Submit</string>
+    <string name="menu_list_view">View List</string>
+    <string name="menu_create_post">Post Listing</string>
+    <string name="unknown_price">Unknown</string>
+    <string name="webpage">Webpage</string>
+    <string name="take_photo">Take Photo</string>
+</resources>

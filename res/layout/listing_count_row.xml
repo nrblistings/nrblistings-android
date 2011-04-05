@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" 
+    android:paddingBottom="5px" android:paddingTop="5px" android:paddingLeft="5px">
+    
+<TextView android:id="@+id/listing_count_count"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+ 	android:background="@drawable/main_list_count_bg" 
+ 	android:textColor="#000000"
+    />
+<TextView android:id="@+id/listing_count_type"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10px"/>
+    
+ </LinearLayout>
